@@ -18,6 +18,8 @@ we have designed some guidelines to make your level enjoyable at the max
 __                                        
 
 
+**THESE GHIDELINES ARE A WIP RIGHT NOW**
+
 Links being bent and not being straight lines
 
 The clever use of game mechanics
