@@ -81,8 +81,11 @@ the problem is that they start being a straight line!
 many people doesnt knows that you can deform these links to create some cool path and organize them in a cool and good looking way, you can even do art with them for using also in a more decorative way!
 this is an example
 
-PHOTO!
+Without deforming the green link lines!
+![bad](https://cdn.discordapp.com/attachments/505619813981356032/752134859505532998/unknown.png)
 
+After deforming green link lines
+![good](https://cdn.discordapp.com/attachments/505619813981356032/752134931945357352/unknown.png)
 
 
 
@@ -100,7 +103,7 @@ I hope to see levels from you soon and enjoy creating!
 #Feedback and requests!
 Remember you have the dicord! and if you feel you need something that would make your levels cooler just request it in our discord
 so we, the developers can see and even add in game!
-!(https://discord.gg/squirrelbytes)
+https://discord.gg/squirrelbytes
 And last but certainly not least, fun factor!
 
 Good luck!
