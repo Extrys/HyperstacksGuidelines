@@ -20,9 +20,9 @@ __
 
 **THESE GHIDELINES ARE A WIP RIGHT NOW**
 
-The main thing you must know is..
+The main thing you must know is that..  
 ***Hyperstacks levels splits in 3 differentmain mechanics:
-Climbing, Combat & Puzzles
+Climbing, Combat & Puzzles***
 
 And by combining them you cna make really cool levels!
 
@@ -48,7 +48,7 @@ doing this you must know you can also move and even dash in air, so you can reac
 but mean while you have to keep that in mind because of tha people could skip a big part od the level if they are experts!
 
 ## Combat
-**in short: The combat should be spaced out and the enemies be well placed each round and not too much, designing a good combat enviroment is a plus***  
+***in short: The combat should be spaced out and the enemies be well placed each round and not too much, designing a good combat enviroment is a plus***  
 
 Combat can be really fun if well done, or really a really bad nightmare that will make the player left the level without play it!  
 id for that there is some tips on making a good combat!
@@ -68,7 +68,7 @@ this is on wip (these combat mechanics below will be added in later updates)
 
 
 ## Puzzle
-***in short: Links being bent and not being straight lines, using the game mechanics in a clever way, usage of complex systems with using repeaters and so would also be a plus**
+***in short: Links being bent and not being straight lines, using the game mechanics in a clever way, usage of complex systems with using repeaters and so would also be a plus***
 
 Puzzles are probably one of the best features on Hyperstacks, of course, only if ther are well designed!
 there are Sooo many of items for designing good puzzles and even much more to come!
