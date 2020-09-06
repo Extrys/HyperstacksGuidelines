@@ -39,7 +39,7 @@ also is a good way to move faster in longh paths, it could become really fun for
 
 There is other things you must know like you hand can thresspass greenb locks so make sure you have not set climb blocks inside them too close to the surface of the gren block
 this also happens with the pushable blocks, activators and even the goal, inside green blocks
-##### Flining
+#### Flining
 is when you throw yourself when climbing
 when doing this up tou could reach 2 more meters upwards, even you can throw yourself in a 45 degrees angle to reach furter horizontally
 doing this you must know you can also move and even dash in air, so you can reach even further, we will try to balance this in some ways like  just giving a single dash in air or so
@@ -50,12 +50,12 @@ but mean while you have to keep that in mind because of tha people could skip a 
 Combat can be really fun if well done, or really a really bad nightmare that will make the player left the level without play it!
 id for that there is some tips on making a good combat!
 
-##### Remember you can segregate the enemies of a single combat in different waves!!
+### Remember you can segregate the enemies of a single combat in different waves!!
 i have seen a LOT of levels that put like 7 enemies at the same time in a single and unique wave for all the combat  
 i must say: **This is not fun!!!**  
 If you want to be able to fight in a balanced way you need to spawn different enemies and not too much in each round os each round could be completly different!
 so you enjoy a not too overwhelming combat, so **Using waves to split the combat in small parts** is my advice!  
-##### Play with the enviroment!
+### Play with the enviroment!
 This is a great way to have really fun combats in game!
 having just a flat place to fight with enemies could be a bit better, so setting some walls as barricades, or setting enemies in different hights, setting jumping platform for fast moving between hight levels and so, but this is not even the only thing you can do
 
