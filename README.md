@@ -29,7 +29,8 @@ And by combining them you cna make really cool levels!
 So here is some tips for each mechanic!
 
 ## Climbing
-***In short: Well placed neons and some spaced ones to force use of the flinging mechanic***
+***In short: Well placed neons and some spaced ones to force use of the flinging mechanic***  
+
 Climbing is a fun way to move in a level, but the climbing has the thing that you could skip many things if you are a climbing expert
 there is a mechanic called Flining!
 sometimes you wil have a block a little bit further than your arm length, this is not a problem since you can throw yourself to it!
@@ -38,7 +39,8 @@ there is also the pushable block with platform, where you can grab the platform 
 also is a good way to move faster in longh paths, it could become really fun for speedruns and so!
 
 There is other things you must know like you hand can thresspass greenb locks so make sure you have not set climb blocks inside them too close to the surface of the gren block
-this also happens with the pushable blocks, activators and even the goal, inside green blocks
+this also happens with the pushable blocks, activators and even the goal, inside green blocks  
+
 #### Flining
 is when you throw yourself when climbing
 when doing this up tou could reach 2 more meters upwards, even you can throw yourself in a 45 degrees angle to reach furter horizontally
@@ -46,8 +48,9 @@ doing this you must know you can also move and even dash in air, so you can reac
 but mean while you have to keep that in mind because of tha people could skip a big part od the level if they are experts!
 
 ## Combat
-**in short: The combat should be spaced out and the enemies be well placed each round and not too much, designing a good combat enviroment is a plus***
-Combat can be really fun if well done, or really a really bad nightmare that will make the player left the level without play it!
+**in short: The combat should be spaced out and the enemies be well placed each round and not too much, designing a good combat enviroment is a plus***  
+
+Combat can be really fun if well done, or really a really bad nightmare that will make the player left the level without play it!  
 id for that there is some tips on making a good combat!
 
 ### Remember you can segregate the enemies of a single combat in different waves!!
@@ -55,6 +58,7 @@ i have seen a LOT of levels that put like 7 enemies at the same time in a single
 i must say: **This is not fun!!!**  
 If you want to be able to fight in a balanced way you need to spawn different enemies and not too much in each round os each round could be completly different!
 so you enjoy a not too overwhelming combat, so **Using waves to split the combat in small parts** is my advice!  
+
 ### Play with the enviroment!
 This is a great way to have really fun combats in game!
 having just a flat place to fight with enemies could be a bit better, so setting some walls as barricades, or setting enemies in different hights, setting jumping platform for fast moving between hight levels and so, but this is not even the only thing you can do
@@ -64,7 +68,8 @@ this is on wip (these combat mechanics below will be added in later updates)
 
 
 ## Puzzle
-***in short: Links being bent and not being straight lines, using the game mechanics in a clever way, usage of complex systems with using repeaters and so would also be a plus***
+***in short: Links being bent and not being straight lines, using the game mechanics in a clever way, usage of complex systems with using repeaters and so would also be a plus**
+
 Puzzles are probably one of the best features on Hyperstacks, of course, only if ther are well designed!
 there are Sooo many of items for designing good puzzles and even much more to come!
 so people can design their own mental challenges!
