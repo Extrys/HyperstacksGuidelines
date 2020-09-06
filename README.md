@@ -89,7 +89,7 @@ After deforming green link lines
 
 
 
-## last but not least! FUN!
+## Last but not least! FUN!
 your main objective is to create a fun good loking level!
 anthing matters if your players dont play your level!
 if the players like your levels your levels can become more visible even you can win level creator rewards that you can use in your levels and even in your character, like hats, some special decorations for levels and lobby and more!
@@ -100,10 +100,9 @@ so what you do in your level is up to you!
 I hope to see levels from you soon and enjoy creating!
 
 
-#Feedback and requests!
+## Feedback and requests!
 Remember you have the dicord! and if you feel you need something that would make your levels cooler just request it in our discord
-so we, the developers can see and even add in game!
+so we, the developers can see and even add in game!  
 https://discord.gg/squirrelbytes
-And last but certainly not least, fun factor!
 
 Good luck!
