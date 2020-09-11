@@ -88,6 +88,10 @@ After deforming green link lines
 ![good](https://cdn.discordapp.com/attachments/505619813981356032/752134931945357352/unknown.png)
 
 
+## Extra tips!
+Try to not making your level too colosal, to avoid performance issues mostly on quest, at least until this performance problem is fixed
+in hyperstacks is better to having so many small good levels that one single large level
+
 
 ## Last but not least! FUN!
 your main objective is to create a fun good loking level!
