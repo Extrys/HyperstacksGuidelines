@@ -1,7 +1,7 @@
 ![](https://cdn.discordapp.com/attachments/505619813981356032/751805901748568185/QuestSide.png)
 # Hyperstacks Guidelines
 Hello! Welcome to Hyperstacks Guidelines!  
-Hyperstacks is a Creative game where players create their own levels for other players!  
+Hyperstacks is a creative game where players create their own levels for other players!  
 Here you can learn how to make good levels enjoyable for other players!
 # ![landscape](https://cdn.discordapp.com/attachments/505619813981356032/751806100315045918/CartelNewjdkaslzxczxczxxzzxczxczxzxcxczxczxc_zxczxczxczx.png)  
 
